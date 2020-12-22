@@ -16,6 +16,22 @@ namespace ProyectoFinalSCV
             Console.WriteLine();
             Console.WriteLine("Elija una opción: ");
             opc = int.Parse(Console.ReadLine());
+
+            switch (opc)
+            {
+                case 1:
+                    double a, b;
+                    Console.WriteLine("--- SUMA ---");
+                    Console.WriteLine("Ingrese el primer número: ");
+                    a = double.Parse(Console.ReadLine());
+                    Console.WriteLine("Ingrese el segundo número:");
+                    b = double.Parse(Console.ReadLine());
+                    Console.WriteLine();
+                    Console.WriteLine($"El resultado de la suma es: {a+b}");
+                    break;
+                default:
+                    break;
+            }
         }
     }
 }
