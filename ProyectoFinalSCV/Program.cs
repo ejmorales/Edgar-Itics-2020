@@ -6,7 +6,9 @@ namespace ProyectoFinalSCV
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("----- MENU DE OPCIONES -----");
+            Console.WriteLine("1 - SUMA");
+            Console.WriteLine("2 - RESTA");
         }
     }
 }
