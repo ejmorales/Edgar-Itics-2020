@@ -30,14 +30,25 @@ namespace ProyectoFinalSCV
                     Console.WriteLine($"El resultado de la suma es: {a+b}");
                     break;
                 case 2:
-                    double a, b;
+                    double c, d;
                     Console.WriteLine("--- RESTA ---");
                     Console.WriteLine("Ingrese el primer número: ");
-                    a = double.Parse(Console.ReadLine());
+                    c = double.Parse(Console.ReadLine());
                     Console.WriteLine("Ingrese el segundo número:");
-                    b = double.Parse(Console.ReadLine());
+                    d = double.Parse(Console.ReadLine());
                     Console.WriteLine();
-                    Console.WriteLine($"El resultado de la suma es: {a - b}");
+                    Console.WriteLine($"El resultado de la suma es: {c - d}");
+                    break;
+                case 3:
+                    double e, f;
+                    Console.WriteLine("--- MULTIPLICACION ---");
+                    Console.WriteLine("Ingrese el primer número: ");
+                    e = double.Parse(Console.ReadLine());
+                    Console.WriteLine("Ingrese el segundo número:");
+                    f = double.Parse(Console.ReadLine());
+                    Console.WriteLine();
+                    Console.WriteLine($"El resultado de la suma es: {e-f}");
+                    break;
                     break;
                 default:
                     break;
