@@ -28,17 +28,7 @@ namespace ProyectoFinalSCV
                     b = double.Parse(Console.ReadLine());
                     Console.WriteLine();
                     Console.WriteLine($"El resultado de la suma es: {a+b}");
-                    break;
-                case 4:
-                    double g, h;
-                    Console.WriteLine("--- DIVISION ---");
-                    Console.WriteLine("Ingrese el primer número:");
-                    g = double.Parse(Console.ReadLine());
-                    Console.WriteLine("Ingrese el segundo número:");
-                    h = double.Parse(Console.ReadLine());
-                    Console.WriteLine();
-                    Console.WriteLine($"El resultado de la división es: {g/h}");
-                    break;
+                    break;                
                 default:
                     break;
             }
