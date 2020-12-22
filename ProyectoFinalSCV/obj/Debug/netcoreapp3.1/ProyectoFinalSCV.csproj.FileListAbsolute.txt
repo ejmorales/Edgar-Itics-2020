@@ -1,0 +1,13 @@
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\bin\Debug\netcoreapp3.1\ProyectoFinalSCV.exe
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\bin\Debug\netcoreapp3.1\ProyectoFinalSCV.deps.json
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\bin\Debug\netcoreapp3.1\ProyectoFinalSCV.runtimeconfig.json
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\bin\Debug\netcoreapp3.1\ProyectoFinalSCV.runtimeconfig.dev.json
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\bin\Debug\netcoreapp3.1\ProyectoFinalSCV.dll
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\bin\Debug\netcoreapp3.1\ProyectoFinalSCV.pdb
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\obj\Debug\netcoreapp3.1\ProyectoFinalSCV.csprojAssemblyReference.cache
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\obj\Debug\netcoreapp3.1\ProyectoFinalSCV.AssemblyInfoInputs.cache
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\obj\Debug\netcoreapp3.1\ProyectoFinalSCV.AssemblyInfo.cs
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\obj\Debug\netcoreapp3.1\ProyectoFinalSCV.csproj.CoreCompileInputs.cache
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\obj\Debug\netcoreapp3.1\ProyectoFinalSCV.dll
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\obj\Debug\netcoreapp3.1\ProyectoFinalSCV.pdb
+C:\Users\Labymed\Google Drive\Certificacion C# - Itics\Cuarto Trimestre\Sistema de control de versiones\Proyecto\ProyectoFinalSCV\ProyectoFinalSCV\obj\Debug\netcoreapp3.1\ProyectoFinalSCV.genruntimeconfig.cache
